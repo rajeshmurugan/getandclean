@@ -17,8 +17,10 @@ This file explains about the process flow of run_analysis.R script briefly.
 Note:
 >This script uses plyr and reshape libraries and inorder to run this script, you should keep Samsung data folder in your working directory. please import those libraries before going to run this script
 >Example
->> \>library(plyr).
->> \>librayy(reshape).
+>> \>library(plyr)
+
+>> \>librayy(reshape)
+
 >> \>source("run_analysis.R").
 
 Thank you!!!!
