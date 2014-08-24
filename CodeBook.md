@@ -1,10 +1,14 @@
 GETTING AND CLEANING PROJECT DATA SET
 =====================================
  tBodyAccmeanX	13
- >Time Domian based Body Accelerator Mean value for X axis. The units are radians/second
+ >Time Domian based Body Accelerator Mean value for X axis.
  >Number
- tBodyAccmeanY               : number
- tBodyAccmeanZ               : number
+ tBodyAccmeanY	13
+ >Time Domian based Body Accelerator Mean value for Y axis.
+ >Number
+ tBodyAccmeanZ	13
+ >Time Domian based Body Accelerator Mean value for Z axis.
+ >Number
  tBodyAccstdX                : number
  tBodyAccstdY                : number
  tBodyAccstdZ                : number
