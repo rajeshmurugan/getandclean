@@ -14,6 +14,11 @@ This file explains about the process flow of run_analysis.R script briefly.
 >9. Creating independent tidy data set which contains the average of each variable for each activity and each subject.
 >10. Writing tidy data set into text file called 'tidydata.txt'
 
+Note:
+>This script uses plyr and reshape libraries. please import those libraries before going to run this script
+>Example
+>> >library(plyr)
+>> >librayy(reshape)
 
 Thank you!!!!
 
