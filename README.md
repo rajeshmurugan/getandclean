@@ -19,7 +19,7 @@ Note:
 >Example
 >> \>library(plyr)
 
->> \>librayy(reshape)
+>> \>library(reshape)
 
 >> \>source("run_analysis.R").
 
